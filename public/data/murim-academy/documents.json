@@ -1,0 +1,164 @@
+{
+  "세계관": [
+    {
+      "id": "world-setting",
+      "title": "세계관설정",
+      "filename": "세계관설정.md",
+      "description": "무림아카데미학원의 기본 세계관과 역사"
+    },
+    {
+      "id": "modern-murim",
+      "title": "세계관_현대무림",
+      "filename": "세계관_현대무림.md",
+      "description": "현대와 무림이 결합된 세계관 설정"
+    },
+    {
+      "id": "power-balance",
+      "title": "세계관_파워밸런스_완전판",
+      "filename": "세계관_파워밸런스_완전판.md",
+      "description": "세계관 내 전력 균형"
+    },
+    {
+      "id": "region-info",
+      "title": "세계관_지역정보",
+      "filename": "세계관_지역정보.md",
+      "description": "세계관 내 주요 지역 정보"
+    },
+    {
+      "id": "sns-system",
+      "title": "세계관_SNS시스템",
+      "filename": "세계관_SNS시스템.md",
+      "description": "현대적 SNS 시스템 설정"
+    }
+  ],
+  "세력": [
+    {
+      "id": "factions-list",
+      "title": "세력및문파",
+      "filename": "세력및문파.md",
+      "description": "주요 세력과 문파들"
+    },
+    {
+      "id": "faction-summary",
+      "title": "세력별_정리",
+      "filename": "세력별_정리.md",
+      "description": "세력별 상세 정리"
+    },
+    {
+      "id": "faction-org",
+      "title": "세력_조직도",
+      "filename": "세력_조직도.md",
+      "description": "세력 조직 구조"
+    },
+    {
+      "id": "faction-codes",
+      "title": "세력_약칭_총정리",
+      "filename": "세력_약칭_총정리.md",
+      "description": "세력 약칭 정리"
+    }
+  ],
+  "인물": [
+    {
+      "id": "character-setting",
+      "title": "인물설정",
+      "filename": "인물설정.md",
+      "description": "주요 인물들의 설정"
+    },
+    {
+      "id": "character-list",
+      "title": "인물_전체_목록표",
+      "filename": "인물_전체_목록표.md",
+      "description": "전체 인물 목록"
+    },
+    {
+      "id": "character-by-power",
+      "title": "인물_전투력등급별_분류",
+      "filename": "인물_전투력등급별_분류.md",
+      "description": "전투력 등급별 인물 분류"
+    },
+    {
+      "id": "character-by-faction",
+      "title": "인물_소속별_분류",
+      "filename": "인물_소속별_분류.md",
+      "description": "소속별 인물 분류"
+    }
+  ],
+  "스킬": [
+    {
+      "id": "sword-skills",
+      "title": "스킬_검술계열",
+      "filename": "스킬_검술계열.md",
+      "description": "검술 관련 스킬들"
+    },
+    {
+      "id": "fist-skills",
+      "title": "스킬_권법계열", 
+      "filename": "스킬_권법계열.md",
+      "description": "권법 관련 스킬들"
+    },
+    {
+      "id": "internal-skills",
+      "title": "스킬_내공계열",
+      "filename": "스킬_내공계열.md",
+      "description": "내공 관련 스킬들"
+    },
+    {
+      "id": "lightness-skills",
+      "title": "스킬_경공계열",
+      "filename": "스킬_경공계열.md",
+      "description": "경공 관련 스킬들"
+    },
+    {
+      "id": "special-skills",
+      "title": "스킬_특수능력",
+      "filename": "스킬_특수능력.md",
+      "description": "특수 능력들"
+    }
+  ],
+  "시스템": [
+    {
+      "id": "game-system",
+      "title": "시스템_게임요소",
+      "filename": "시스템_게임요소.md",
+      "description": "게임 시스템 요소들"
+    },
+    {
+      "id": "power-measurement",
+      "title": "시스템_전투력측정_완전판",
+      "filename": "시스템_전투력측정_완전판.md",
+      "description": "전투력 측정 시스템"
+    },
+    {
+      "id": "body-system",
+      "title": "시스템_체질_경지_체계",
+      "filename": "시스템_체질_경지_체계.md",
+      "description": "체질과 경지 체계"
+    },
+    {
+      "id": "relationship-system",
+      "title": "시스템_관계도_호감도",
+      "filename": "시스템_관계도_호감도.md",
+      "description": "관계도와 호감도 시스템"
+    }
+  ],
+  "스토리": [
+    {
+      "id": "main-story",
+      "title": "시나리오_메인스토리",
+      "filename": "시나리오_메인스토리.md",
+      "description": "메인 스토리 시나리오"
+    },
+    {
+      "id": "story-structure",
+      "title": "스토리_구성_및_시작메시지",
+      "filename": "스토리_구성_및_시작메시지.md",
+      "description": "스토리 구성과 시작 메시지"
+    },
+    {
+      "id": "timeline",
+      "title": "주요사건타임라인",
+      "filename": "주요사건타임라인.md",
+      "description": "주요 사건들의 타임라인"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "char-1",
+    "name": "에린 실버스톤",
+    "role": "주인공",
+    "age": 17,
+    "gender": "여성",
+    "affiliation": "아르카나 아카데미 1학년",
+    "magicType": "고대 마법 (미각성)",
+    "personality": "호기심 많고 정의로움. 때로는 무모할 정도로 용감함",
+    "background": "평범한 마을 출신이지만 특별한 마력 적성을 인정받아 아카데미에 입학",
+    "goals": "자신의 진정한 힘을 깨우고 부모님의 실종 사건의 진실을 밝히기",
+    "image": "/images/worlds/world-1/characters/erin.jpg"
+  },
+  {
+    "id": "char-2",
+    "name": "루카스 크로우",
+    "role": "조력자 / 라이벌",
+    "age": 18,
+    "gender": "남성",
+    "affiliation": "아르카나 아카데미 2학년, 학생회 부회장",
+    "magicType": "화염 계통 상급 마법사",
+    "personality": "냉정하고 이성적. 완벽주의자이지만 동료를 소중히 여김",
+    "background": "명문 마법사 가문의 차남. 형에 대한 열등감과 독립 의지가 강함",
+    "goals": "가문의 그림자에서 벗어나 독자적인 길을 개척하기",
+    "image": "/images/worlds/world-1/characters/lucas.jpg"
+  },
+  {
+    "id": "char-3",
+    "name": "셀린 문라이트",
+    "role": "멘토",
+    "age": 156,
+    "gender": "여성",
+    "affiliation": "아르카나 아카데미 고대 마법학 교수",
+    "magicType": "시공간 마법 / 고대 마법 전문가",
+    "personality": "신비롭고 통찰력 있음. 학생들을 아끼지만 엄격한 교육 방침",
+    "background": "고대 마법 문명의 마지막 생존자. 천년 이상의 지식을 보유",
+    "goals": "고대의 지식을 올바르게 계승하고 다가올 위기에 대비하기",
+    "image": "/images/worlds/world-1/characters/celine.jpg"
+  }
+]

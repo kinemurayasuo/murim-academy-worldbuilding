@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(powershell:*)",
+      "Read(//c/Users/a/OneDrive/바탕 화면/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
