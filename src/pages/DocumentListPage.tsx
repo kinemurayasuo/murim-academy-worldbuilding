@@ -148,9 +148,9 @@ export function DocumentListPage() {
                           </Badge>
                         </div>
                         <CardTitle className="text-lg dark:text-white">{doc.title}</CardTitle>
-                        {doc.description && (
+                        {(doc.description || doc.content) && (
                           <CardDescription className="dark:text-gray-400 line-clamp-2">
-                            {doc.description}
+                            {doc.description || doc.content}
                           </CardDescription>
                         )}
                       </CardHeader>

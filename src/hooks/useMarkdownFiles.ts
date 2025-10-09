@@ -31,7 +31,9 @@ export function useMarkdownFiles(worldId: string) {
             id: string;
             title: string;
             filename: string;
-            description: string;
+            description?: string;
+            excerpt?: string;
+            tags?: string[];
           }>;
 
           for (const docInfo of typedDocs) {
@@ -39,12 +41,12 @@ export function useMarkdownFiles(worldId: string) {
               id: docInfo.id,
               title: docInfo.title,
               category: category,
-              content: "", // 실제 content는 필요시 별도 로드
+              content: docInfo.excerpt || "", // 목록/검색용 간단 본문
               filename: docInfo.filename,
-              description: docInfo.description,
+              description: docInfo.description || docInfo.excerpt,
               worldId: worldId,
               lastModified: new Date().toISOString(),
-              tags: [],
+              tags: docInfo.tags || [],
               filePath: `/설정/${docInfo.filename}`
             });
           }
