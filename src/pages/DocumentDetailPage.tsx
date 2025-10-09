@@ -83,9 +83,9 @@ export function DocumentDetailPage() {
         </div>
 
         {/* Markdown Content */}
-        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-8 dark:border dark:border-gray-700">
-          <ScrollArea className="h-[calc(100vh-300px)]">
-            <div className="prose prose-slate dark:prose-invert max-w-none">
+        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 md:p-8 dark:border dark:border-gray-700">
+          <ScrollArea className="h-[calc(100vh-280px)]">
+            <div className="prose prose-slate dark:prose-invert max-w-3xl mx-auto">
               <ReactMarkdown
                 remarkPlugins={[remarkGfm]}
                 rehypePlugins={[rehypeRaw, rehypeSanitize]}

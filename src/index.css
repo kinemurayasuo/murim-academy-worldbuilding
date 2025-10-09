@@ -109,6 +109,37 @@
 }
 
 @layer base {
+  /* 기본 본문 가독성 개선 */
+  .prose {
+    max-width: 100%;
+  }
+  .prose h1, .prose h2, .prose h3, .prose h4 {
+    scroll-margin-top: 6rem;
+  }
+  .prose p, .prose li { line-height: 1.9; }
+  .prose h1 { line-height: 1.3; }
+  .prose h2 { line-height: 1.35; }
+  .prose h3 { line-height: 1.4; }
+  .prose table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .prose table th, .prose table td {
+    padding: 0.5rem 0.75rem;
+  }
+  .prose pre, .prose code {
+    word-wrap: break-word;
+    white-space: pre-wrap;
+  }
+  .prose img {
+    display: block;
+    margin: 0.5rem auto;
+  }
+  .prose blockquote {
+    border-left-width: 4px;
+    padding-left: 1rem;
+    color: inherit;
+  }
   *, :after, :before, ::backdrop {
     box-sizing: border-box;
     border: 0 solid;
@@ -373,6 +404,7 @@
   body {
     background-color: var(--background);
     color: var(--foreground);
+    font-family: 'Noto Sans KR', var(--default-font-family, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji");
   }
 
   :where(:not(:has([class*=" text-"]), :not(:has([class^="text-"])))) h1 {
