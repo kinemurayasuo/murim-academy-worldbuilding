@@ -11,7 +11,9 @@ export function useMarkdownContent(filename: string) {
         setLoading(true);
         console.log("🔍 Loading markdown file:", filename);
 
-        const response = await fetch(`/markdown/${filename}`);
+        // NOTE: GitHub Pages에서는 베이스 경로가 존재하므로 BASE_URL을 반드시 사용
+        const base = import.meta.env.BASE_URL || '/';
+        const response = await fetch(`${base}markdown/${filename}`);
         if (!response.ok) {
           throw new Error(`Failed to load markdown file: ${filename}`);
         }
