@@ -1,0 +1,31 @@
+#!/bin/bash
+# GitHub 배포 스크립트
+
+echo "=== 무림아카데미학원 세계관 페이지 배포 스크립트 ==="
+echo ""
+echo "1. GitHub에서 저장소를 생성하세요:"
+echo "   - 저장소명: murim-academy-worldbuilding"
+echo "   - Public으로 설정"
+echo "   - README 파일 추가하지 않음"
+echo ""
+echo "2. 저장소 생성 후 다음 명령어를 실행하세요:"
+echo ""
+echo "# 실제 GitHub URL로 교체하여 실행"
+echo 'git remote add origin https://github.com/YOUR_USERNAME/murim-academy-worldbuilding.git'
+echo 'git push -u origin main'
+echo ""
+echo "3. GitHub 저장소 Settings > Pages에서:"
+echo "   - Source: GitHub Actions 선택"
+echo ""
+echo "4. 배포 완료 후 접속:"
+echo "   https://YOUR_USERNAME.github.io/murim-academy-worldbuilding/"
+echo ""
+echo "=== 현재 준비된 기능들 ==="
+echo "✅ 세계관 홈페이지"
+echo "✅ 카테고리별 문서 분류"
+echo "✅ 마크다운 파일 렌더링"
+echo "✅ 검색 기능"
+echo "✅ 다크/라이트 모드"
+echo "✅ 반응형 디자인"
+echo "✅ GitHub Actions 자동 배포"
+echo "✅ HTTPS 보안 연결"
