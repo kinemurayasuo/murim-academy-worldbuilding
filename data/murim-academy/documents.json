@@ -1,164 +1,858 @@
 {
+  "공략": [
+    {
+      "id": "공략_주인공들",
+      "title": "주인공 공략법",
+      "filename": "공략_주인공들.md",
+      "description": ""
+    }
+  ],
+  "기타": [
+    {
+      "id": "학원_반별_인물_배치",
+      "title": "무림아카데미학원 - 반별 인물 배치",
+      "filename": "학원_반별_인물_배치.md",
+      "description": ""
+    },
+    {
+      "id": "소속문파_경지_무공목록",
+      "title": "소속문파 경지 전투력 무공목록",
+      "filename": "소속문파_경지_무공목록.md",
+      "description": ""
+    },
+    {
+      "id": "인종및능력체계",
+      "title": "인종 및 특수 능력 체계",
+      "filename": "인종및능력체계.md",
+      "description": ""
+    },
+    {
+      "id": "주요사건타임라인",
+      "title": "주요 사건 타임라인",
+      "filename": "주요사건타임라인.md",
+      "description": ""
+    },
+    {
+      "id": "주요에피소드",
+      "title": "주요 에피소드 및 사건",
+      "filename": "주요에피소드.md",
+      "description": ""
+    },
+    {
+      "id": "주요장소상세",
+      "title": "주요 장소 상세 묘사",
+      "filename": "주요장소상세.md",
+      "description": ""
+    },
+    {
+      "id": "학원시스템상세",
+      "title": "천무학원 시스템 상세",
+      "filename": "학원시스템상세.md",
+      "description": ""
+    },
+    {
+      "id": "플레이어_흥미유발_시스템",
+      "title": "플레이어 흥미 유발 시스템",
+      "filename": "플레이어_흥미유발_시스템.md",
+      "description": ""
+    },
+    {
+      "id": "현대무림_시스템",
+      "title": "현대무림 시스템 (Modern Murim System)",
+      "filename": "현대무림_시스템.md",
+      "description": ""
+    },
+    {
+      "id": "wry_상태창_시스템",
+      "title": "Wry 상태창 시스템",
+      "filename": "Wry_상태창_시스템.md",
+      "description": ""
+    }
+  ],
+  "설정": [
+    {
+      "id": "설정_무공비급",
+      "title": "무공 비급 목록",
+      "filename": "설정_무공비급.md",
+      "description": ""
+    },
+    {
+      "id": "설정_아이템도감",
+      "title": "아이템 도감",
+      "filename": "설정_아이템도감.md",
+      "description": ""
+    },
+    {
+      "id": "설정_타임라인_달력",
+      "title": "타임라인 & 연간 달력",
+      "filename": "설정_타임라인_달력.md",
+      "description": ""
+    },
+    {
+      "id": "설정_faq_세계관질문",
+      "title": "FAQ - 자주 묻는 질문",
+      "filename": "설정_FAQ_세계관질문.md",
+      "description": ""
+    }
+  ],
   "세계관": [
     {
-      "id": "world-setting",
-      "title": "세계관설정",
-      "filename": "세계관설정.md",
-      "description": "무림아카데미학원의 기본 세계관과 역사"
-    },
-    {
-      "id": "modern-murim",
-      "title": "세계관_현대무림",
-      "filename": "세계관_현대무림.md",
-      "description": "현대와 무림이 결합된 세계관 설정"
-    },
-    {
-      "id": "power-balance",
-      "title": "세계관_파워밸런스_완전판",
-      "filename": "세계관_파워밸런스_완전판.md",
-      "description": "세계관 내 전력 균형"
-    },
-    {
-      "id": "region-info",
-      "title": "세계관_지역정보",
-      "filename": "세계관_지역정보.md",
-      "description": "세계관 내 주요 지역 정보"
-    },
-    {
-      "id": "sns-system",
-      "title": "세계관_SNS시스템",
+      "id": "세계관_sns시스템",
+      "title": "무림아카데미학원 - SNS 및 온라인 시스템",
       "filename": "세계관_SNS시스템.md",
-      "description": "현대적 SNS 시스템 설정"
+      "description": ""
+    },
+    {
+      "id": "세계관설정",
+      "title": "무림아카데미학원 세계관 설정",
+      "filename": "세계관설정.md",
+      "description": ""
+    },
+    {
+      "id": "세계관_지역정보",
+      "title": "세계관 - 지역 정보",
+      "filename": "세계관_지역정보.md",
+      "description": ""
+    },
+    {
+      "id": "세계관_파워밸런스_완전판",
+      "title": "세계관 파워밸런스 완전판",
+      "filename": "세계관_파워밸런스_완전판.md",
+      "description": ""
+    },
+    {
+      "id": "세계관_현대무림",
+      "title": "현대무림 세계관",
+      "filename": "세계관_현대무림.md",
+      "description": ""
     }
   ],
   "세력": [
     {
-      "id": "factions-list",
-      "title": "세력및문파",
-      "filename": "세력및문파.md",
-      "description": "주요 세력과 문파들"
-    },
-    {
-      "id": "faction-summary",
-      "title": "세력별_정리",
-      "filename": "세력별_정리.md",
-      "description": "세력별 상세 정리"
-    },
-    {
-      "id": "faction-org",
-      "title": "세력_조직도",
+      "id": "세력_조직도",
+      "title": "무림 세력 조직도",
       "filename": "세력_조직도.md",
-      "description": "세력 조직 구조"
+      "description": ""
     },
     {
-      "id": "faction-codes",
-      "title": "세력_약칭_총정리",
+      "id": "세력별_정리",
+      "title": "무림아카데미학원 - 세력별 학생 정리",
+      "filename": "세력별_정리.md",
+      "description": ""
+    },
+    {
+      "id": "세력_방외인",
+      "title": "방외인 (方外人) - 세상 밖의 사람들",
+      "filename": "세력_방외인.md",
+      "description": ""
+    },
+    {
+      "id": "세력및문파",
+      "title": "세력 구도 및 문파 설정",
+      "filename": "세력및문파.md",
+      "description": ""
+    },
+    {
+      "id": "세력_약칭_총정리",
+      "title": "세력 약칭 총정리 (한글 1글자)",
       "filename": "세력_약칭_총정리.md",
-      "description": "세력 약칭 정리"
-    }
-  ],
-  "인물": [
-    {
-      "id": "character-setting",
-      "title": "인물설정",
-      "filename": "인물설정.md",
-      "description": "주요 인물들의 설정"
-    },
-    {
-      "id": "character-list",
-      "title": "인물_전체_목록표",
-      "filename": "인물_전체_목록표.md",
-      "description": "전체 인물 목록"
-    },
-    {
-      "id": "character-by-power",
-      "title": "인물_전투력등급별_분류",
-      "filename": "인물_전투력등급별_분류.md",
-      "description": "전투력 등급별 인물 분류"
-    },
-    {
-      "id": "character-by-faction",
-      "title": "인물_소속별_분류",
-      "filename": "인물_소속별_분류.md",
-      "description": "소속별 인물 분류"
+      "description": ""
     }
   ],
   "스킬": [
     {
-      "id": "sword-skills",
-      "title": "스킬_검술계열",
+      "id": "스킬_검술계열",
+      "title": "검술 계열 스킬",
       "filename": "스킬_검술계열.md",
-      "description": "검술 관련 스킬들"
+      "description": ""
     },
     {
-      "id": "fist-skills",
-      "title": "스킬_권법계열", 
-      "filename": "스킬_권법계열.md",
-      "description": "권법 관련 스킬들"
-    },
-    {
-      "id": "internal-skills",
-      "title": "스킬_내공계열",
-      "filename": "스킬_내공계열.md",
-      "description": "내공 관련 스킬들"
-    },
-    {
-      "id": "lightness-skills",
-      "title": "스킬_경공계열",
+      "id": "스킬_경공계열",
+      "title": "경공 계열 스킬",
       "filename": "스킬_경공계열.md",
-      "description": "경공 관련 스킬들"
+      "description": ""
     },
     {
-      "id": "special-skills",
-      "title": "스킬_특수능력",
+      "id": "스킬_권법계열",
+      "title": "권법 계열 스킬",
+      "filename": "스킬_권법계열.md",
+      "description": ""
+    },
+    {
+      "id": "스킬_내공계열",
+      "title": "내공 계열 스킬",
+      "filename": "스킬_내공계열.md",
+      "description": ""
+    },
+    {
+      "id": "무공비급상세",
+      "title": "무공 비급 상세",
+      "filename": "무공비급상세.md",
+      "description": ""
+    },
+    {
+      "id": "스킬_보조기술",
+      "title": "보조 기술 계열",
+      "filename": "스킬_보조기술.md",
+      "description": ""
+    },
+    {
+      "id": "스킬_암기계열",
+      "title": "암기 계열 스킬",
+      "filename": "스킬_암기계열.md",
+      "description": ""
+    },
+    {
+      "id": "스킬_음악무공",
+      "title": "음악 무공 계열",
+      "filename": "스킬_음악무공.md",
+      "description": ""
+    },
+    {
+      "id": "스킬_의술독술",
+      "title": "의술 및 독술 계열",
+      "filename": "스킬_의술독술.md",
+      "description": ""
+    },
+    {
+      "id": "스킬_장법계열",
+      "title": "장법 계열 스킬",
+      "filename": "스킬_장법계열.md",
+      "description": ""
+    },
+    {
+      "id": "스킬_특수능력",
+      "title": "특수 능력 계열",
       "filename": "스킬_특수능력.md",
-      "description": "특수 능력들"
+      "description": ""
+    }
+  ],
+  "시나리오": [
+    {
+      "id": "시나리오_메인스토리",
+      "title": "메인 시나리오",
+      "filename": "시나리오_메인스토리.md",
+      "description": ""
+    },
+    {
+      "id": "스토리_구성_및_시작메시지",
+      "title": "무림아카데미학원 - 스토리 구성 & 시작 메시지",
+      "filename": "스토리_구성_및_시작메시지.md",
+      "description": ""
+    },
+    {
+      "id": "시나리오_이벤트모음",
+      "title": "이벤트 시나리오 모음",
+      "filename": "시나리오_이벤트모음.md",
+      "description": ""
     }
   ],
   "시스템": [
     {
-      "id": "game-system",
-      "title": "시스템_게임요소",
+      "id": "시스템_게임요소",
+      "title": "게임 시스템 요소",
       "filename": "시스템_게임요소.md",
-      "description": "게임 시스템 요소들"
+      "description": ""
     },
     {
-      "id": "power-measurement",
-      "title": "시스템_전투력측정_완전판",
-      "filename": "시스템_전투력측정_완전판.md",
-      "description": "전투력 측정 시스템"
-    },
-    {
-      "id": "body-system",
-      "title": "시스템_체질_경지_체계",
-      "filename": "시스템_체질_경지_체계.md",
-      "description": "체질과 경지 체계"
-    },
-    {
-      "id": "relationship-system",
-      "title": "시스템_관계도_호감도",
+      "id": "시스템_관계도_호감도",
+      "title": "관계도 & 호감도 시스템",
       "filename": "시스템_관계도_호감도.md",
-      "description": "관계도와 호감도 시스템"
+      "description": ""
+    },
+    {
+      "id": "시스템_대화_선택지",
+      "title": "대화 & 선택지 시스템",
+      "filename": "시스템_대화_선택지.md",
+      "description": ""
+    },
+    {
+      "id": "시스템_재능등급_학생기준",
+      "title": "재능 등급 기준 (학생 버전)",
+      "filename": "시스템_재능등급_학생기준.md",
+      "description": ""
+    },
+    {
+      "id": "전투력_랭크별_능력수준",
+      "title": "전투력 랭크별 능력수준 (강함순)",
+      "filename": "전투력_랭크별_능력수준.md",
+      "description": ""
+    },
+    {
+      "id": "시스템_전투력측정",
+      "title": "전투력 측정 시스템",
+      "filename": "시스템_전투력측정.md",
+      "description": ""
+    },
+    {
+      "id": "시스템_전투력측정_완전판",
+      "title": "전투력 측정 시스템 완전판",
+      "filename": "시스템_전투력측정_완전판.md",
+      "description": ""
+    },
+    {
+      "id": "시스템_체질_경지_체계",
+      "title": "체질 & 경지 체계",
+      "filename": "시스템_체질_경지_체계.md",
+      "description": ""
+    },
+    {
+      "id": "호감도_시스템",
+      "title": "호감도 시스템 (Affection System)",
+      "filename": "호감도_시스템.md",
+      "description": ""
+    },
+    {
+      "id": "시스템_sns_미디어",
+      "title": "SNS & 미디어 시스템",
+      "filename": "시스템_SNS_미디어.md",
+      "description": ""
     }
   ],
-  "스토리": [
+  "직업": [
     {
-      "id": "main-story",
-      "title": "시나리오_메인스토리",
-      "filename": "시나리오_메인스토리.md",
-      "description": "메인 스토리 시나리오"
+      "id": "직업_검사",
+      "title": "검사 (劍士) 직업",
+      "filename": "직업_검사.md",
+      "description": ""
     },
     {
-      "id": "story-structure",
-      "title": "스토리_구성_및_시작메시지",
-      "filename": "스토리_구성_및_시작메시지.md",
-      "description": "스토리 구성과 시작 메시지"
+      "id": "직업_궁사",
+      "title": "궁사 (弓士) 직업",
+      "filename": "직업_궁사.md",
+      "description": ""
     },
     {
-      "id": "timeline",
-      "title": "주요사건타임라인",
-      "filename": "주요사건타임라인.md",
-      "description": "주요 사건들의 타임라인"
+      "id": "직업_권사",
+      "title": "권사 (拳士) 직업",
+      "filename": "직업_권사.md",
+      "description": ""
+    },
+    {
+      "id": "직업_대장장이",
+      "title": "대장장이 (鍛造師) 직업",
+      "filename": "직업_대장장이.md",
+      "description": ""
+    },
+    {
+      "id": "직업_도사",
+      "title": "도사 (刀士) 직업",
+      "filename": "직업_도사.md",
+      "description": ""
+    },
+    {
+      "id": "직업_상인",
+      "title": "상인 (商人) 직업",
+      "filename": "직업_상인.md",
+      "description": ""
+    },
+    {
+      "id": "직업_암살자",
+      "title": "암살자 (暗殺者) 직업",
+      "filename": "직업_암살자.md",
+      "description": ""
+    },
+    {
+      "id": "직업_요리사",
+      "title": "요리사 (料理師) 직업",
+      "filename": "직업_요리사.md",
+      "description": ""
+    },
+    {
+      "id": "직업_음악가",
+      "title": "음악가 (音樂家) 직업",
+      "filename": "직업_음악가.md",
+      "description": ""
+    },
+    {
+      "id": "직업_의사",
+      "title": "의사 (醫士) 직업",
+      "filename": "직업_의사.md",
+      "description": ""
+    }
+  ],
+  "캐릭터": [
+    {
+      "id": "캐릭터_빌런",
+      "title": "빌런 캐릭터",
+      "filename": "캐릭터_빌런.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_사도계_세력",
+      "title": "사도계 세력 (邪道界)",
+      "filename": "캐릭터_사도계_세력.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_사이드_정파",
+      "title": "사이드 캐릭터 - 정파",
+      "filename": "캐릭터_사이드_정파.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_서역_세외세력",
+      "title": "서역 & 세외세력 캐릭터",
+      "filename": "캐릭터_서역_세외세력.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_세계관_최강자_목록",
+      "title": "세계관 최강자 목록 (EX 등급 보유자)",
+      "filename": "캐릭터_세계관_최강자_목록.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_요괴_도깨비_세력",
+      "title": "요괴 & 도깨비 세력 캐릭터",
+      "filename": "캐릭터_요괴_도깨비_세력.md",
+      "description": ""
+    },
+    {
+      "id": "인물_소속별_분류",
+      "title": "인물 소속별 분류",
+      "filename": "인물_소속별_분류.md",
+      "description": ""
+    },
+    {
+      "id": "인물_전투력등급별_분류",
+      "title": "인물 전투력 등급별 분류",
+      "filename": "인물_전투력등급별_분류.md",
+      "description": ""
+    },
+    {
+      "id": "인물_직업별_분류",
+      "title": "인물 직업/역할별 분류",
+      "filename": "인물_직업별_분류.md",
+      "description": ""
+    },
+    {
+      "id": "인물_전체_목록표",
+      "title": "전체 인물 목록표",
+      "filename": "인물_전체_목록표.md",
+      "description": ""
+    },
+    {
+      "id": "인물설정",
+      "title": "주요 인물 설정 및 강함 관계도",
+      "filename": "인물설정.md",
+      "description": ""
+    },
+    {
+      "id": "인물외전스토리",
+      "title": "주요 인물 외전 스토리",
+      "filename": "인물외전스토리.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_중립_엑스트라",
+      "title": "중립 캐릭터 & 엑스트라",
+      "filename": "캐릭터_중립_엑스트라.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_감정별_말투_간결판",
+      "title": "캐릭터 감정별 말투 (간결판)",
+      "filename": "캐릭터_감정별_말투_간결판.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_감정별_말투변화",
+      "title": "캐릭터 감정별 말투 변화",
+      "filename": "캐릭터_감정별_말투변화.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_그롬",
+      "title": "캐릭터 완전판 - 그롬 (Grom)",
+      "filename": "캐릭터_완전판_그롬.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_독고선",
+      "title": "캐릭터 완전판 - 독고선",
+      "filename": "캐릭터_완전판_독고선.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_라히트",
+      "title": "캐릭터 완전판 - 라히트 (Lahit)",
+      "filename": "캐릭터_완전판_라히트.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_릴리스",
+      "title": "캐릭터 완전판 - 릴리스 (Lilith)",
+      "filename": "캐릭터_완전판_릴리스.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_아샤",
+      "title": "캐릭터 완전판 - 아샤 (Asha)",
+      "filename": "캐릭터_완전판_아샤.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_아서",
+      "title": "캐릭터 완전판 - 아서 (Arthur)",
+      "filename": "캐릭터_완전판_아서.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_알리바바",
+      "title": "캐릭터 완전판 - 알리바바 (Alibaba)",
+      "filename": "캐릭터_완전판_알리바바.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_용족린",
+      "title": "캐릭터 완전판 - 용족린 (龍族琳)",
+      "filename": "캐릭터_완전판_용족린.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_울프",
+      "title": "캐릭터 완전판 - 울프 (Wolf)",
+      "filename": "캐릭터_완전판_울프.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_장무명",
+      "title": "캐릭터 완전판 - 장무명 (학원장)",
+      "filename": "캐릭터_완전판_장무명.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_천사미카엘라",
+      "title": "캐릭터 완전판 - 천사 미카엘라 (Angel Mikaela)",
+      "filename": "캐릭터_완전판_천사미카엘라.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_청담",
+      "title": "캐릭터 완전판 - 청담 (靑潭 / Cheongdam)",
+      "filename": "캐릭터_완전판_청담.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_파드마",
+      "title": "캐릭터 완전판 - 파드마 (Padma)",
+      "filename": "캐릭터_완전판_파드마.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_혈무영",
+      "title": "캐릭터 완전판 - 혈무영",
+      "filename": "캐릭터_완전판_혈무영.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_화염",
+      "title": "캐릭터 완전판 - 화염",
+      "filename": "캐릭터_완전판_화염.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_간달프",
+      "title": "캐릭터 완전판 — 간달프 (Gandalf)",
+      "filename": "캐릭터_완전판_간달프.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_강시소녀장백",
+      "title": "캐릭터 완전판 — 강시소녀장백 (殭屍少女長白, Gang-si So-nyeo Jang-baek)",
+      "filename": "캐릭터_완전판_강시소녀장백.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_강아란",
+      "title": "캐릭터 완전판 — 강아란 (姜雅蘭, Kang A-ran)",
+      "filename": "캐릭터_완전판_강아란.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_검술교사",
+      "title": "캐릭터 완전판 — 검술교사 혈무영 (血武影, Hyeol Mu-yeong)",
+      "filename": "캐릭터_완전판_검술교사.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_꼬마도깨비깜이",
+      "title": "캐릭터 완전판 — 꼬마도깨비깜이 (Kko-ma Do-kkae-bi Kkam-i)",
+      "filename": "캐릭터_완전판_꼬마도깨비깜이.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_낙오무사진월",
+      "title": "캐릭터 완전판 — 낙오무사 진월 (落伍武士 陳月)",
+      "filename": "캐릭터_완전판_낙오무사진월.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_서린",
+      "title": "캐릭터 완전판 — 낙제천재 서린 (落第天才 徐琳)",
+      "filename": "캐릭터_완전판_서린.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_넘버7",
+      "title": "캐릭터 완전판 — 넘버7 (Number 7)",
+      "filename": "캐릭터_완전판_넘버7.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_도서관사서",
+      "title": "캐릭터 완전판 — 도서관 사서 서연화 (書淵花, Seo Yeon-hwa)",
+      "filename": "캐릭터_완전판_도서관사서.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_망념",
+      "title": "캐릭터 완전판 — 망념 (妄念, Mang-nyeom)",
+      "filename": "캐릭터_완전판_망념.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_메를린",
+      "title": "캐릭터 완전판 — 메를린 (Merlin)",
+      "filename": "캐릭터_완전판_메를린.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_모르가나",
+      "title": "캐릭터 완전판 — 모르가나 (Morgana)",
+      "filename": "캐릭터_완전판_모르가나.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_무공폐인강서",
+      "title": "캐릭터 완전판 — 무공폐인 강서 (武功廢人 姜瑞)",
+      "filename": "캐릭터_완전판_무공폐인강서.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_무녀교사",
+      "title": "캐릭터 완전판 — 무녀교사 천령 (天靈, Cheon-ryeong)",
+      "filename": "캐릭터_완전판_무녀교사.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_백서연",
+      "title": "캐릭터 완전판 — 백서연 (白書娟, Baek Seo-yeon)",
+      "filename": "캐릭터_완전판_백서연.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_한설",
+      "title": "캐릭터 완전판 — 병약소녀 한설 (病弱少女 韓雪)",
+      "filename": "캐릭터_완전판_한설.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_불도깨비화염",
+      "title": "캐릭터 완전판 — 불도깨비 화염 (火焰, Hwa-yeom)",
+      "filename": "캐릭터_완전판_불도깨비화염.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_설무연",
+      "title": "캐릭터 완전판 — 설무연 (雪舞娟, Seol Mu-yeon)",
+      "filename": "캐릭터_완전판_설무연.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_소하린",
+      "title": "캐릭터 완전판 — 소하린 (昭夏琳, So Ha-rin)",
+      "filename": "캐릭터_완전판_소하린.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_실바누스",
+      "title": "캐릭터 완전판 — 실바누스 (Silvanus)",
+      "filename": "캐릭터_완전판_실바누스.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_아테나",
+      "title": "캐릭터 완전판 — 아테나 (Athena)",
+      "filename": "캐릭터_완전판_아테나.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_암술교사",
+      "title": "캐릭터 완전판 — 암술교사 그림자 (影, Yeong)",
+      "filename": "캐릭터_완전판_암술교사.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_운소아",
+      "title": "캐릭터 완전판 — 운소아 (雲昭娥, Un So-a)",
+      "filename": "캐릭터_완전판_운소아.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_은퇴검사백란",
+      "title": "캐릭터 완전판 — 은퇴검사 백란 (白蘭, Baek-ran)",
+      "filename": "캐릭터_완전판_은퇴검사백란.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_의술교사",
+      "title": "캐릭터 완전판 — 의술교사 독고선 (毒孤仙, Dok-go Seon)",
+      "filename": "캐릭터_완전판_의술교사.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_인형사보건교사",
+      "title": "캐릭터 완전판 — 인형사 보건교사 목란 (木蘭, Mok Ran)",
+      "filename": "캐릭터_완전판_인형사보건교사.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_장미설",
+      "title": "캐릭터 완전판 — 장미설 (薔薇雪, Jang Mi-seol)",
+      "filename": "캐릭터_완전판_장미설.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_저주받은자유령",
+      "title": "캐릭터 완전판 — 저주받은자 유령 (呪縛者 幽靈)",
+      "filename": "캐릭터_완전판_저주받은자유령.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_조안",
+      "title": "캐릭터 완전판 — 조안 (Joan)",
+      "filename": "캐릭터_완전판_조안.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_진대식",
+      "title": "캐릭터 완전판 — 진대식 (陳大食, Jin Dae-sik)",
+      "filename": "캐릭터_완전판_진대식.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_진법교사",
+      "title": "캐릭터 완전판 — 진법교사 백설화 (白雪花, Baek Seol-hwa)",
+      "filename": "캐릭터_완전판_진법교사.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_천년귀흑무",
+      "title": "캐릭터 완전판 — 천년귀흑무 (千年鬼黑霧, Cheon-nyeon-gwi Heuk-mu)",
+      "filename": "캐릭터_완전판_천년귀흑무.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_철시",
+      "title": "캐릭터 완전판 — 철시 (鐵屍, Cheol-si)",
+      "filename": "캐릭터_완전판_철시.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_타이탄",
+      "title": "캐릭터 완전판 — 타이탄 (Titan)",
+      "filename": "캐릭터_완전판_타이탄.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_학원장",
+      "title": "캐릭터 완전판 — 학원장 (學院長, Hak-won-jang)",
+      "filename": "캐릭터_완전판_학원장.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_혈독",
+      "title": "캐릭터 완전판 — 혈독 (血毒, Hyeol-dok)",
+      "filename": "캐릭터_완전판_혈독.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_혈소연",
+      "title": "캐릭터 완전판 — 혈소연 (血昭娟, Hyeol So-yeon)",
+      "filename": "캐릭터_완전판_혈소연.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_호박이",
+      "title": "캐릭터 완전판 — 호박이 (Hobak-i)",
+      "filename": "캐릭터_완전판_호박이.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_흑영",
+      "title": "캐릭터 완전판 — 흑영 (黑影, Heuk-young)",
+      "filename": "캐릭터_완전판_흑영.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_흑월",
+      "title": "캐릭터 완전판 — 흑월 (黑月, Heuk-wol)",
+      "filename": "캐릭터_완전판_흑월.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_반요검사월영",
+      "title": "캐릭터 완전판: 반요검사 월영 (Ban-yo Geomsа Wol-yeong)",
+      "filename": "캐릭터_완전판_반요검사월영.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_완전판_백미호",
+      "title": "캐릭터 완전판: 백미호 (Baek Mi-ho)",
+      "filename": "캐릭터_완전판_백미호.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_외형음성표현",
+      "title": "캐릭터 외형/음성/표현 총정리",
+      "filename": "캐릭터_외형음성표현.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_코드_총정리",
+      "title": "캐릭터 코드 총정리 (A1~H10)",
+      "filename": "캐릭터_코드_총정리.md",
+      "description": ""
+    },
+    {
+      "id": "캐릭터_현재위치",
+      "title": "캐릭터 현재 위치",
+      "filename": "캐릭터_현재위치.md",
+      "description": ""
+    }
+  ],
+  "학년별": [
+    {
+      "id": "1학년_인물명단",
+      "title": "무림아카데미학원 - 1학년 인물명단",
+      "filename": "1학년_인물명단.md",
+      "description": ""
+    },
+    {
+      "id": "2학년_인물명단",
+      "title": "무림아카데미학원 - 2학년 인물명단",
+      "filename": "2학년_인물명단.md",
+      "description": ""
+    },
+    {
+      "id": "3학년_인물명단",
+      "title": "무림아카데미학원 - 3학년 인물명단",
+      "filename": "3학년_인물명단.md",
+      "description": ""
+    },
+    {
+      "id": "4학년_인물명단",
+      "title": "무림아카데미학원 - 4학년 인물명단",
+      "filename": "4학년_인물명단.md",
+      "description": ""
+    },
+    {
+      "id": "교직원_명단",
+      "title": "무림아카데미학원 - 교직원 명단",
+      "filename": "교직원_명단.md",
+      "description": ""
     }
   ]
 }
