@@ -8,11 +8,12 @@
       (function() {
         var path = window.location.pathname;
         var base = '/murim-academy-worldbuilding/';
-        if (path.startsWith(base)) {
-          var relative = path.substring(base.length);
-          var hash = '#/' + relative.replace(/^\/+/, '');
-          window.location.replace(base + hash);
-        }
+        if (!path.startsWith(base)) return;
+        var relative = path.substring(base.length);
+        // 정적 파일(확장자 포함) 요청이면 SPA 리다이렉트 하지 않음
+        if (relative && relative.includes('.')) return;
+        var hash = '#/' + relative.replace(/^\/+/, '');
+        window.location.replace(base + hash);
       })();
     </script>
   </head>
